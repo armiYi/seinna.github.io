@@ -4,4 +4,4 @@
 ![证件照](01.jpg)
 
 
-Your site is published at https://armiyi.github.io/seinna.github.io/
+点击 -----> https://armiyi.github.io/seinna.github.io/
