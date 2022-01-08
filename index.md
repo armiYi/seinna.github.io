@@ -4,4 +4,6 @@
 ![证件照](01.jpg)
 
 
-点击 -----> https://armiyi.github.io/seinna.github.io/
+
+点击 ----->  [https://armiyi.github.io/seinna.github.io/](https://armiyi.github.io/seinna.github.io/)
+
