@@ -5,5 +5,5 @@
 
 
 
-点击 ----->  [https://armiyi.github.io/seinna.github.io/](https://armiyi.github.io/seinna.github.io/ "Seinna")
+[https://armiyi.github.io/seinna.github.io/](https://armiyi.github.io/seinna.github.io/ "Seinna")
 
