@@ -13,6 +13,17 @@
     </td>
   </tr>
 </table>
+
+## 项目经验
+1.
+2.
+## 工作经历
+1.
+2.
+## 教育经历
+1.
+2.
+
 <!-- ![证件照](01.jpg) -->
 
 [https://armiyi.github.io/seinna.github.io/](https://armiyi.github.io/seinna.github.io/ "Seinna")
